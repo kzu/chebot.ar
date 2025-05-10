@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg fill="#1BA4DF" version="1.1" viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg">
   <!-- <rect width="140" height="140" fill="white" /> -->
-  <circle cx="80" cy="80" r="80" fill="white" />
+  <!-- <circle cx="80" cy="80" r="80" fill="white" /> -->
   <g transform="translate(8, 4)">
     <g transform="translate(-8, 5)">
       <path fill="white" d="M108 108.199C108 114.8279 102.6289 120.199 96 120.199H40C33.3711 120.199 28 114.8279 28 108.199V96C28 81.711 35.625 68.504 48 61.359S75.625 54.2145 88 61.359 108 81.711 108 96Z" />
